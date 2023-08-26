@@ -14,6 +14,9 @@ const shuffle = (currentArray) => {
 
 
 
+
+
+
 describe('Find the maximum', () => {
   it('should declare a function named maxOfTwoNumbers', () => {
     expect(typeof maxOfTwoNumbers).toBe('function');
